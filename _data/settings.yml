@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Posts',  url: 'https://naveenspace7.github.io/life/'}
+- {name: 'Posts',  url: ''}
 - {name: 'About',              url: 'about'}
 # - {name: 'Contact',            url: 'contact'}
 
